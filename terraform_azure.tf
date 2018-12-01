@@ -2,10 +2,17 @@
 provider "azurerm" 
 
 {
+    #charlie
     subscription_id = "724db8b9-5413-4f32-a268-df91eb327608"
-#    client_id       = "xxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
-#    client_secret   = "xxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
     tenant_id       = "8a3e6369-36e7-4b9a-8db6-a8f0154c7ee8"
+    
+    #anne
+    subscription_id = "47dd0b57-897b-4d46-a91f-7ab52dec905b"
+    tenant_id       = "a081ff79-318c-45ec-95f3-38ebc2801472"
+    
+    #khilesh
+    subscription_id = "221939ed-a3dd-4825-ac1e-063b766c2895"
+    tenant_id       = "a081ff79-318c-45ec-95f3-38ebc2801472"
 }
 
 # Create a resource group if it doesn’t exist
