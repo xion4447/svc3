@@ -179,7 +179,13 @@ connection {
   provisioner "remote-exec" {
     inline = [
       "sudo apt-get -y install docker.io",
-     #"echo boo >> ~/boo.txt"
+      "mkdir svc3"
      ]
   }
+  
+  provisioner "file" {
+     source = "."
+     destination = "/home/azureuser/svc3"
+  }
+
 }
