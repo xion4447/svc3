@@ -3,6 +3,8 @@
 #az vm deallocate -g myResourceGroup -n svc1-vm1
 #az vm delete -g myResourceGroup -n svc1-vm1
 
+rm terraform.tfstate*
+
 az vm deallocate -g myResourceGroup -n  myVm
 az vm delete -g myResourceGroup -n  myVm
 
