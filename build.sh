@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t charlestbetz/node-web-app .
+docker build -t garh8574/node-web-app .
