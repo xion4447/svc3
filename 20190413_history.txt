@@ -1,0 +1,145 @@
+    1  pwd
+    2  ls
+    3  git init
+    4  git clone https://github.com/Tanya123Git/svc3project.git
+    5  ls
+    6  cd svc3project/
+    7  ls
+    8  ls .
+    9  ls -al
+   10  cd projectsvc3/
+   11  ls
+   12  ls -al
+   13  exit
+   14  ls
+   15  git init
+   16  git clone https://github.com/dm-academy/svc3.git
+   17  ls
+   18  pwd
+   19  mkdir svc3Tanya
+   20  ls
+   21  cp svc3 svc3Tanya/
+   22  cp svc3 svc3Tanya/ -rwx
+   23  cp --help
+   24  pwd
+   25  ls
+   26  cp svc3 svc3Tanya
+   27  cd svc3Tanya/
+   28  ls
+   29  ls -la
+   30  ls -a
+   31  pwd
+   32  ls
+   33  cd ..
+   34  ls
+   35  cd svc3project/
+   36  ls -la
+   37  cd svc3
+   38  cd ..
+   39  cd svc3
+   40  ls
+   41  cd ..
+   42  ls
+   43  cd svc3
+   44  ls 
+   45  cat package.json
+   46  nano package.json
+   47  node package.json 
+   48  cat server.js
+   49  npm install
+   50  node server.js
+   51  touch dockerfile
+   52  ls
+   53  touch Dockerfile
+   54  nano Dockerfile 
+   55  docker build -t garh8574/node-web-app .
+   56  Docker Kill
+   57  Docker kill
+   58  exit
+   59  pwd
+   60  ls
+   61  rm -rf svc3
+   62  ls
+   63  rm -rf svvc3Tanya
+   64  rm -rf svvc3project
+   65  ls
+   66  rm -rf svc3project
+   67  rm -rf svc3Tanya
+   68  ls
+   69  git clone https://github.com/Tanya123Git/svc3.git
+   70  ls
+   71  cd svc3
+   72  l
+   73  vim Dockerfile 
+   74  nano build.sh
+   75  nano run.sh
+   76  docker build -t garh8574/node-web-app .
+   77  nano run.sh
+   78  ./run.sh
+   79  curl -i localhost:49160
+   80  node server.js
+   81  ifconfig
+   82  docker image
+   83  node package.json
+   84  npm install
+   85  node server.js
+   86  docker images
+   87  nano pub.sh
+   88  hostname
+   89  nano pub.sh
+   90  ./pub.sh
+   91  ls -als
+   92  chmod 755 pub.sh
+   93  ./pub.sh
+   94  nano pub.sh
+   95  ./pub.sh
+   96  nano pub.sh
+   97  ./pub.sh
+   98  nano pub.sh
+   99  docker ps -a
+  100  nano pub.sh
+  101  sudo ./pub.sh
+  102  gcloud auth configure-docker
+  103  sudo ./pub.sh
+  104  chmod gsutil
+  105  chmod 755 gsutil
+  106  sudo ./pub.sh
+  107  nano pub.sh
+  108  gcloud auth configure-docker
+  109  nano pub.sh
+  110  sudo ./pub.sh
+  111  gcloud auth configure-docker
+  112  nano pub.sh
+  113  sudo ./pub.sh
+  114  nano pub.sh
+  115  gcloud auth configure-docker
+  116  sudo ./pub.sh
+  117  docker ps
+  118  nano pub.sh
+  119  sudo ./pub.sh
+  120  nano pub.sh
+  121  gcloud init
+  122  gcloud auth configure-docker
+  123  docker-credential-gcloud list
+  124  nano pub.sh
+  125  sudo ./pub.sh
+  126  nano pub.sh
+  127  sudo ./pub.sh
+  128  docker images
+  129  nano pub.sh
+  130  history
+  131  nano tanya
+  132  cp history tanya
+  133  git add pub.sh
+  134  git commit -m 'docker pushed'
+  135  git config --global user.email tanyagarhwal.07@gmail.com
+  136  git config --global user.name Tanya123git
+  137  git config --global user.name Tanya123Git
+  138  git config --global user.email tanyagarhwal.07@gmail.com
+  139  git commit -m 'docker pushed'
+  140  git log
+  141  ls
+  142  git push -f origin master
+  143  exit
+  144  history
+  145  history > 20190413_history.txt
